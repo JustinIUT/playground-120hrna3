@@ -45,11 +45,11 @@ QCM atelier 2
 -[ ] une fiche qui permet d’identifier de potentiels utilisateurs
 -[X] un moyen d’identifier les attentes des futurs utilisateurs
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[Les personnas doivent ]
+-[ ] être une personne réelle
+-[X] être diversifiés
+-[X] être une personne fictive
+-[ ] avoir les mêmes traits de caractères
 
 QCM atelier 3
 
