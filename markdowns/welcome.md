@@ -1,3 +1,5 @@
+title: QCM atelier 7
+
 ?[Que représente le KEEP dans la rétrospective Keep-Drop-Start ?]
 -[ ] Le meilleur moyen de diriger une équipe 
 -[X] Ce qui fonctionne bien, ce qu’il faut garder
