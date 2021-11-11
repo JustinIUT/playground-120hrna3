@@ -71,11 +71,11 @@ QCM atelier 3
 -[ ] Tout le monde  
 -[ ] Zinédine Zidane
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[A quoi sert l’impact mapping ?]
+-[ ] Décrire des fonctionnalités
+-[ ] Mettre en relation les personnas
+-[X] Définir le but de notre produit
+-[ ] Trouver de nouvelles fonctionnalités
 
 QCM atelier 4
 
@@ -97,11 +97,11 @@ QCM atelier 4
 -[ ] Si le projet prend du retard, possibilité de supprimer les dernières Story
 -[ ] Parce que c’est marrant
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[L’atelier de Story Mapping est réalisé par]
+-[ ] Le Product Owner
+-[ ] Le Scrum Master
+-[ ] Les Développeur
+-[X] L’ensemble de l’équipe Scrum
 
 QCM atelier 5
 
@@ -111,37 +111,37 @@ QCM atelier 5
 -[X] Un artefact du développement agile correspondant à un élément fonctionnel élémentaire qui a de la valeur pour le métier.
 -[ ] Les expériences passées de l’utilisateur et tout le contexte autour de son appréciation de la vie. 
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[Une user story doit]
+-[X] être Indépendante des autres user stories
+-[ ] concerner plusieurs fonctionnalités
+-[ ] être dépendante des autres user stories
+-[X] être testable
 
-?[A quoi servent les critères d’acceptances ?]
+?[A quoi servent les critères d’acceptances ? (réponses multiples)]
 -[ ] A accepter le projet
 -[X] A définir les critères que la Story devra respecter
 -[ ] A rendre le code plus complet
 -[ ] A rien encore une fois 
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[Le maquettage permet (réponses multiples)]
+-[X] de mieux cibler les critères à respecter
+-[X] d’avoir un visuel concret sur les User Stories
+-[ ] de montrer des dessins
+-[ ] de montrer des chaussures !
 
 QCM atelier 6
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[Lors d’un projet, une équipe agile utilisant la méthode Scrum, l’utilise ]
+-[ ] 1 fois au début
+-[ ] 2 fois, au début et à la fin
+-[ ] 1 fois à la fin
+-[X] Le plus possible tout au long du projet
 
-?[]
--[ ] 
--[ ] 
--[ ] 
--[ ] 
+?[Le TaskBoard est d’un grand aide car (réponses multiples)]
+-[ ] il permet de faire le café
+-[X] il permet de savoir l’avancement des tâches
+-[X] il aide l’équipe à ne pas douter des tâches à faire
+-[ ] il contribue à réaliser le story mapping 
 
 ?[Que signifie DoD? ]
 -[ ] Doux ou Dur
